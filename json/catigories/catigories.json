@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "icon": "https://trp-web.github.io/React-comers/img/catigories/notbook.png",
+    "catigories": "technical"
+  },
+  {
+    "id": 2,
+    "icon": "https://trp-web.github.io/React-comers/img/catigories/phone.png",
+    "catigories": "phone"
+  },
+  {
+    "id": 3,
+    "icon": "https://trp-web.github.io/React-comers/img/catigories/burger.png",
+    "catigories": "food"
+  },
+  {
+    "id": 4,
+    "icon": "https://trp-web.github.io/React-comers/img/catigories/dril.png",
+    "catigories": "repair"
+  },
+  {
+    "id": 5,
+    "icon": "https://trp-web.github.io/React-comers/img/catigories/creep.png",
+    "catigories": "chancellery"
+  }
+]
