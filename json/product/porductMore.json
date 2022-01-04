@@ -9,9 +9,9 @@
   {
     "id": "7",
     "title": "Glutoclean 0.5",
-    "prise": "15                                                                        $",
+    "prise": "15$",
     "catigorie": "repair",
-    "photo": "https://trp-web.github.io/React-comers/img/repair/repair2.png"
+    "photo": "https://trp-web.github.io/React-comers/img/repair/repair2.jpg"
   },
   {
     "id": "8",
@@ -25,7 +25,7 @@
     "title": "Samsung Galaxy Z Flip3 8/128GB Green",
     "prise": "515$",
     "catigorie": "phone",
-    "photo": "https://trp-web.github.io/React-comers/img/product/phone4.png"
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone4.jpg"
   },
   {
     "id": "10",
@@ -39,7 +39,7 @@
     "title": "Calvo Mexicana 150",
     "prise": "999$",
     "catigorie": "food",
-    "photo": "https://trp-web.github.io/React-comers/img/product/food1.png"
+    "photo": "https://trp-web.github.io/React-comers/img/product/food1.jpg"
   },
   {
     "id": "12",

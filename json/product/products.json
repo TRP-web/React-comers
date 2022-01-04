@@ -11,27 +11,27 @@
     "title": "Slime 237",
     "prise": "999$",
     "catigorie": "repair",
-    "photo": "https://trp-web.github.io/React-comers/img/product/repair1.png"
+    "photo": "https://trp-web.github.io/React-comers/img/product/repair1.jpg"
   },
   {
     "id": "3",
     "title": "Samsung Galaxy M52 5G 6/128GB Black",
     "prise": "999$",
     "catigorie": "phone",
-    "photo": "https://trp-web.github.io/React-comers/img/product/phone2.png"
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone2.jpg"
   },
   {
     "id": "4",
     "title": "Brunox Deo",
     "prise": "999$",
     "catigorie": "rupair",
-    "photo": "https://trp-web.github.io/React-comers/img/product/repair3.png"
+    "photo": "https://trp-web.github.io/React-comers/img/product/repair3.jpg"
   },
   {
     "id": "5",
     "title": "ZTE RedMagic 6R 8/128GB Cosmos",
     "prise": "999$",
     "catigorie": "phone",
-    "photo": "https://trp-web.github.io/React-comers/img/product/phone3.png"
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone3.jpg"
   }
 ]
