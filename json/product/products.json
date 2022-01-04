@@ -8,30 +8,30 @@
   },
   {
     "id": "2",
-    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "title": "Slime 237",
     "prise": "999$",
-    "catigorie": "phone",
-    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+    "catigorie": "repair",
+    "photo": "https://trp-web.github.io/React-comers/img/product/repair1.png"
   },
   {
     "id": "3",
-    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "title": "Samsung Galaxy M52 5G 6/128GB Black",
     "prise": "999$",
     "catigorie": "phone",
-    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone2.png"
   },
   {
     "id": "4",
-    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "title": "Brunox Deo",
     "prise": "999$",
-    "catigorie": "phone",
-    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+    "catigorie": "rupair",
+    "photo": "https://trp-web.github.io/React-comers/img/product/repair3.png"
   },
   {
     "id": "5",
-    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "title": "ZTE RedMagic 6R 8/128GB Cosmos",
     "prise": "999$",
     "catigorie": "phone",
-    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone3.png"
   }
 ]
