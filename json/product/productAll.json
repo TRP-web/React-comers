@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "2",
+    "title": "Slime 237",
+    "prise": "12$",
+    "catigorie": "repair",
+    "photo": "https://trp-web.github.io/React-comers/img/product/repeir1.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Samsung Galaxy M52 5G 6/128GB Black",
+    "prise": "515$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phon2.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Brunox Deo",
+    "prise": "25$",
+    "catigorie": "rupair",
+    "photo": "https://trp-web.github.io/React-comers/img/product/repair3.jpg"
+  },
+  {
+    "id": "5",
+    "title": "ZTE RedMagic 6R 8/128GB Cosmos",
+    "prise": "215$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone3.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "7",
+    "title": "Glutoclean 0.5",
+    "prise": "15$",
+    "catigorie": "repair",
+    "photo": "https://trp-web.github.io/React-comers/img/product/repair2.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "9",
+    "title": "Samsung Galaxy Z Flip3 8/128GB Green",
+    "prise": "515$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone4.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "11",
+    "title": "Calvo Mexicana 150",
+    "prise": "13$",
+    "catigorie": "food",
+    "photo": "https://trp-web.github.io/React-comers/img/product/food1.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "13",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "14",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "15",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "16",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "17",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "18",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "19",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "20",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  },
+  {
+    "id": "21",
+    "title": "Apple iPhone 13 Pro Max 128GB Gold",
+    "prise": "999$",
+    "catigorie": "phone",
+    "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
+  } 
+]
