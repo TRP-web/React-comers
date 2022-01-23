@@ -24,7 +24,7 @@
     "id": "4",
     "title": "Brunox Deo",
     "prise": "25$",
-    "catigorie": "rupair",
+    "catigorie": "repair",
     "photo": "https://trp-web.github.io/React-comers/img/product/repair3.jpg"
   },
   {
@@ -145,5 +145,5 @@
     "prise": "999$",
     "catigorie": "phone",
     "photo": "https://trp-web.github.io/React-comers/img/product/phone.png"
-  } 
+  }
 ]
